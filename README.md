@@ -47,7 +47,6 @@
 
 ### Process Control
 
-
 -	Ctrl + C - Interrupt/kill current process
 -	Ctrl + Z - Suspend current process
 -	Ctrl + D - Exit/logout (EOF)
